@@ -1,10 +1,10 @@
-#  <p align = "center"> something about me </p>
+#   something about me 
 
 🎓 **Computer Science student** at Poznań University of Technology  
 👥 Member of the GHOST student research group     
 📊 Focused on  Data Analysis, Data Visualization and Data Engineering  
 
-##  <p align="center"> Stack </p>
+##  Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="100"/>
@@ -17,7 +17,7 @@
 </p>
 
 
-### <p align="center">📬 How to reach me</p>
+### 📬 How to reach me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jan-kaszuba-53a2b5230/">
